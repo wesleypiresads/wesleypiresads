@@ -1,8 +1,8 @@
 # Olá! Eu sou Wesley Pires 👋
-## Analista e desenvolvedor de sistemas
+### Analista e desenvolvedor de sistemas
 ### Experiência e levantamento de requistos, manutenção em sistemas web, desenvolvimento de melhorias em sites
-#### Experiência em rede de computadores, Hardware e Sistemas operacionas Microsoft Windows, Linux e servidores
-##### Atualmente envolvido com programação de computadores no back-end
+### Experiência em rede de computadores, Hardware e Sistemas operacionas Microsoft Windows, Linux e servidores
+### Atualmente envolvido com programação de computadores no back-end
 
 Apaixonado por:
 - 💬 Apaixonado por Python, Javascript, HTML5 e CSS3
